@@ -1,2 +1,2 @@
 # DevOps
-Laboratory - Development and Operation
+Development and Operation Laboratory
